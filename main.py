@@ -1,3 +1,4 @@
+# 자동차 아두이노 활용해서 동작하기
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QPushButton, QHBoxLayout, QVBoxLayout, QLabel
 from urllib.request import urlopen
